@@ -1,0 +1,19 @@
+
+--// [discord.gg/altcontrol]
+--// UPDATED LAST TIME: 6/1/2024 [June 1, 2024]
+
+getgenv()._CODES_ = {
+    "MELONBEAR",
+    "DAUP",
+    "HALLOWEEN2023",
+    "TRADEME!",
+    "pumpkins2023",
+    "RUBY",
+    "CROW"
+}
+loadstring(game:HttpGet('https://raw.githubusercontent.com/WETRYINGTOMAKE/dahood/main/CodeClaimerFixed'))()
+
+
+--// FIXING MUMU CRASHES DONT (MEM LEAK) [DISABLED FOR NOW]
+--// wait(60)
+--// game:GetService("RunService"):Set3dRenderingEnabled(true)
